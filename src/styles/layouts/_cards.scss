@@ -1,0 +1,43 @@
+.projects {
+  width: 100%;
+  height: fit-content;
+  padding-top: 0.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  border: 3px solid hsl(79, 25%, 25%);
+  border-radius: 5px;
+  background-color: #e6d5df;
+
+  &--article {
+    width: 50%;
+    padding-bottom: 0.5rem;
+  }
+
+  &--img {
+    width: 250px;
+    height: 150px;
+  }
+
+  &--text {
+    width: 100%;
+    font-family: 'Kalam', cursive;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  &--h3 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+
+  &--p {
+    font-family: 'Kalam', cursive;
+    font-size: 0.9rem;
+    padding-bottom: 0.5rem;
+  }
+}

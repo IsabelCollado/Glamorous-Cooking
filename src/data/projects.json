@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Los Montes de Galicia",
+    "type": "Mediterránea",
+    "priceRange": "50€ - 80€",
+    "image": "https://i.postimg.cc/sxvvGvF4/montes-galicia.jpg",
+    "description": "El concepto de Montes de Galicia es muy sencillo. Consiste en ofrecer una experiencia gastronómica completa, desde un picoteo en barra con vinos de prestigio por copas, variedad de recetas tanto clásicas como modernas y coctelería de autor.",
+    "specialDiets": "Opciones veganas, Opciones sin gluten",
+    "city": "Madrid",
+    "webUrl": "https://losmontesdegalicia.es/"
+  },
+  {
+    "id": 2,
+    "name": "El Sueño de Carmen",
+    "type": "Mediterránea",
+    "priceRange": "12€ - 30€",
+    "image": "https://i.postimg.cc/kGbnKHsB/los-sue-os.jpg",
+    "description": "Ofrece cocina tradicional española de calidad exquisita.",
+    "specialDiets": "Consultar",
+    "city": "Madrid",
+    "webUrl": "https://www.elsuenodecarmen.es/"
+  },
+  {
+    "id": 3,
+    "name": "Ástor",
+    "type": "Internacional",
+    "priceRange": "20€ - 50€",
+    "image": "https://i.postimg.cc/qRjL2kQv/astor.jpg",
+    "description": " Cocina fusión en donde la tradición y la vanguardia se complementan a la perfección. ",
+    "specialDiets": "Opciones vegetarianas, Opciones veganas, Opciones sin gluten",
+    "city": "Madrid",
+    "webUrl": "https://astor.es"
+  },
+  {
+    "id": 4,
+    "name": "Entre Santos Madrid",
+    "type": "Mediterránea, contemporánea",
+    "priceRange": "15€ - 30€",
+    "image": "https://i.postimg.cc/9FJYSFjP/entre-santos.jpg",
+    "description": "Entre Santos Cocktail bar and food es un nuevo concepto de hostelería donde podrás disfrutar de un buen rato tomando un buen cocktail, vinos o cervezas artesanales acompañado de un buen tapeo mediterráneo escuchando buena música.",
+    "specialDiets": "Opciones vegetarianas, Opciones veganas, Opciones sin gluten",
+    "city": "Madrid",
+    "webUrl": "https://entresantos.es"
+  },
+  {
+    "id": 5,
+    "name": "Étimo by Begoña Fraire",
+    "type": "Mediterránea",
+    "priceRange": "70€ - 300€",
+    "image": "https://i.postimg.cc/k5n6dWFB/timo.jpg",
+    "description": "Proponemos una cocina que recupera la tradición para proponer sabores nuevos e inolvidables. Todo de la mano de La Chef Begoña Fraire",
+    "specialDiets": "Opciones vegetarianas, Opciones veganas, Opciones sin gluten",
+    "city": "Madrid",
+    "webUrl": "https://etimo.es"
+  },
+  {
+    "id": 6,
+    "name": "Cebo",
+    "type": "Mediterránea",
+    "priceRange": "100€ - 200€",
+    "image": "https://i.postimg.cc/Wb0r0N56/cebo.jpg",
+    "description": "Una cocina de sencillez, producto y elegancia, sabrosa, con una técnica muy refinada; basada en la excelencia de las materias primas, utilizando pocos ingredientes y técnicas precisas para preservar el sabor, la textura y la naturaleza de cada producto.",
+    "specialDiets": "Consultar",
+    "city": "Madrid",
+    "webUrl": "http://www.cebomadrid.com"
+  }
+]
