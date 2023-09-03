@@ -12,7 +12,7 @@
 
 ### Setup
 
-1. Clone the repo: `https://github.com/IsabelCollado/glamorous-cooking.git` using:
+1. Clone the repo: `https://github.com/IsabelCollado/Glamorous-Cooking.git` using:
 
 ```bash
  git clone
